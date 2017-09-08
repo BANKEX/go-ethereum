@@ -25,9 +25,9 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/common/hexutil"
-	"github.com/ethereum/go-ethereum/core/types"
+	"github.com/BankEx/go-ethereum/common"
+	"github.com/BankEx/go-ethereum/common/hexutil"
+	"github.com/BankEx/go-ethereum/core/types"
 )
 
 // Tests that verification caches can be correctly generated.

@@ -23,10 +23,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/p2p"
-	"github.com/ethereum/go-ethereum/rlp"
+	"github.com/BankEx/go-ethereum/common"
+	"github.com/BankEx/go-ethereum/core/types"
+	"github.com/BankEx/go-ethereum/p2p"
+	"github.com/BankEx/go-ethereum/rlp"
 	"gopkg.in/fatih/set.v0"
 )
 

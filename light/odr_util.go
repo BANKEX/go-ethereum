@@ -22,12 +22,12 @@ import (
 	"errors"
 	"math/big"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ethereum/go-ethereum/ethdb"
-	"github.com/ethereum/go-ethereum/rlp"
+	"github.com/BankEx/go-ethereum/common"
+	"github.com/BankEx/go-ethereum/core"
+	"github.com/BankEx/go-ethereum/core/types"
+	"github.com/BankEx/go-ethereum/crypto"
+	"github.com/BankEx/go-ethereum/ethdb"
+	"github.com/BankEx/go-ethereum/rlp"
 )
 
 var sha3_nil = crypto.Keccak256Hash(nil)

@@ -26,13 +26,13 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core/state"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ethereum/go-ethereum/ethdb"
-	"github.com/ethereum/go-ethereum/event"
-	"github.com/ethereum/go-ethereum/params"
+	"github.com/BankEx/go-ethereum/common"
+	"github.com/BankEx/go-ethereum/core/state"
+	"github.com/BankEx/go-ethereum/core/types"
+	"github.com/BankEx/go-ethereum/crypto"
+	"github.com/BankEx/go-ethereum/ethdb"
+	"github.com/BankEx/go-ethereum/event"
+	"github.com/BankEx/go-ethereum/params"
 )
 
 // testTxPoolConfig is a transaction pool configuration without stateful disk

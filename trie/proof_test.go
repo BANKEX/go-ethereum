@@ -23,8 +23,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/rlp"
+	"github.com/BankEx/go-ethereum/common"
+	"github.com/BankEx/go-ethereum/rlp"
 )
 
 func init() {

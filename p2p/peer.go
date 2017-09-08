@@ -24,10 +24,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common/mclock"
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/p2p/discover"
-	"github.com/ethereum/go-ethereum/rlp"
+	"github.com/BankEx/go-ethereum/common/mclock"
+	"github.com/BankEx/go-ethereum/log"
+	"github.com/BankEx/go-ethereum/p2p/discover"
+	"github.com/BankEx/go-ethereum/rlp"
 )
 
 const (

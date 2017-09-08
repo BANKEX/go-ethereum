@@ -24,12 +24,12 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/contracts/ens"
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ethereum/go-ethereum/swarm/network"
-	"github.com/ethereum/go-ethereum/swarm/services/swap"
-	"github.com/ethereum/go-ethereum/swarm/storage"
+	"github.com/BankEx/go-ethereum/common"
+	"github.com/BankEx/go-ethereum/contracts/ens"
+	"github.com/BankEx/go-ethereum/crypto"
+	"github.com/BankEx/go-ethereum/swarm/network"
+	"github.com/BankEx/go-ethereum/swarm/services/swap"
+	"github.com/BankEx/go-ethereum/swarm/storage"
 )
 
 const (
